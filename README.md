@@ -1,2 +1,2 @@
 # Shopping-Store-Sales-Analysis
-Analyzed store sales data to identify customer trends and top-performing products. Used Python for data cleaning and visualization, and Excel for pivot tables and summary reports.
+Analyzed Ola ride data to uncover customer ride patterns, peak booking hours, and revenue trends using Python and Power BI dashboards.
